@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">VidShare Pro</string>
+    <string name="app_tagline">Wadaaga Faylasha Bilaa Internetka &amp; Soo Dejiyaha Fiidiyowyada</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_downloader">Soo Dejiye</string>
+    <string name="tab_share">Wadaag (Xender)</string>
+    <string name="tab_status_saver">Xaaladaha</string>
+    <string name="tab_tools">Aalado</string>
+    <string name="tab_vault">Qasnad</string>
+    <string name="tab_downloads">Kaydka</string>
+    <string name="tab_settings">Hagaajin</string>
+
+    <!-- Downloader -->
+    <string name="downloader_title">Soo Dejiyaha Guud ee Muuqaallada</string>
+    <string name="input_hint">Halkan ku dheji link-ga TikTok, Instagram, ama muuqaal kasta…</string>
+    <string name="paste_button">Dheji</string>
+    <string name="clear_button">Tirtir</string>
+    <string name="download_button">Soo Deji Muuqaal HD ah</string>
+    <string name="download_audio_button">Soo Deji Codka (MP3)</string>
+    <string name="sample_link_prompt">Tijaabi link tusaale ah</string>
+    <string name="paste_from_clipboard">Waxaa laga soo dhejiyay clipboard-ka</string>
+    <string name="clipboard_empty">Clipboard-ku waa maran ama kuma jiro link sax ah</string>
+    <string name="status_idle">Diyaar u ah soo dejin</string>
+    <string name="status_extracting">Waa la falanqeynayaa muuqaalka…</string>
+    <string name="status_downloading">Waa la soo dejinayaa…</string>
+    <string name="status_verifying">Waa la hubinayaa faylka…</string>
+    <string name="status_success">Si guul leh ayaa loo soo dejiyay!</string>
+    <string name="status_error">Khalad ayaa dhacay xilligii soo dejinta</string>
+    <string name="cancel_button">Jooji</string>
+
+    <!-- Share (Offline P2P Transfer) -->
+    <string name="share_title">Wadaaga Xawaaraha Sare ee Bilaa Netka</string>
+    <string name="share_subtitle">Ku wadaag faylasha asxaabtaada xawaare 40MB/s adoon internet isticmaalin</string>
+    <string name="btn_send">Dir Faylal</string>
+    <string name="btn_receive">Qaado Faylal</string>
+    <string name="category_videos">Fiidiyowyo</string>
+    <string name="category_audios">Cod/Heeso</string>
+    <string name="category_photos">Sawirro</string>
+    <string name="category_apps">Apps (APK)</string>
+    <string name="category_docs">Dukumentiyo</string>
+    <string name="selected_files_count">%1$d fayl ayaa la doortay (%2$s)</string>
+    <string name="btn_start_transfer">Dir Waxa La Doortay (%1$d)</string>
+    <string name="radar_searching">Waxa la baadi-goobayaa taleefannada u dhow…</string>
+    <string name="radar_waiting">Waxa la sugayaa qofka soo diraya…</string>
+    <string name="connected_peer">Waxaad ku xiran tahay: %1$s</string>
+    <string name="transferring_file">Waa la dirayaa: %1$s</string>
+    <string name="transfer_speed">%1$.1f MB/s</string>
+    <string name="transfer_complete">Wadaagii wuu dhamaaday!</string>
+    <string name="hotspot_mode">Habka Hotspot-ka</string>
+    <string name="wifi_direct_mode">Wi-Fi Direct</string>
+    <string name="qr_code_desc">Sawir QR Code-ka si aad isla markiiba ugu xiranto</string>
+
+    <!-- Status Saver -->
+    <string name="status_saver_title">Keydiyaha Status-ka WhatsApp</string>
+    <string name="status_saver_desc">Kaydso sawirrada iyo fiidiyowyada WhatsApp inta aysan bixin</string>
+    <string name="status_refresh">Cusboonaysii</string>
+    <string name="status_save_all">Wada Kaydi</string>
+    <string name="status_saved_to_gallery">Waxaa lagu keydiyay Gallery-ga!</string>
+    <string name="no_statuses_found">Lama helin status cusub. Fur WhatsApp oo marka hore soo daawo qaar.</string>
+
+    <!-- Media Tools Studio -->
+    <string name="tools_title">Aaladaha Muuqaalka &amp; Codka</string>
+    <string name="tool_video_to_mp3">Fiidiyow u beddel MP3</string>
+    <string name="tool_video_to_mp3_desc">Ka saar codka fiidiyowga oo ka dhigo hees ama ringtone</string>
+    <string name="tool_video_compressor">Yaree Xajmiga Fiidiyowga</string>
+    <string name="tool_video_compressor_desc">Yaree xajmiga si aad ugu dirto WhatsApp adoon tayada lumin</string>
+    <string name="tool_video_trimmer">Jariiqaha Fiidiyowga</string>
+    <string name="tool_video_trimmer_desc">Ka jar meelaha aadan rabin fiidiyow kasta</string>
+    <string name="tool_execute">Hadda Shaqee</string>
+    <string name="tool_success">Hawshii si guul leh ayay ku dhammaatay!</string>
+
+    <!-- Private Vault -->
+    <string name="vault_title">Qasnadda Qarsoon ee Fiidiyowyada</string>
+    <string name="vault_desc">Ku ilaali fiidiyowyadaada gaarka ah lambar sir ah (PIN)</string>
+    <string name="vault_enter_pin">Geli 4-ta lambar ee sirta ah</string>
+    <string name="vault_setup_pin">Sameyso PIN cusub</string>
+    <string name="vault_unlock">Fur Qasnadda</string>
+    <string name="vault_lock">Xir Qasnadda</string>
+    <string name="vault_empty">Qasnadu waa maran tahay. Taabo \'Qari Fayl\' si aad wax ugu dartid.</string>
+    <string name="vault_add_file">Qari Fayl</string>
+    <string name="vault_pin_incorrect">PIN-ku waa khalad. Fadlan mar kale isku day.</string>
+
+    <!-- Player & History -->
+    <string name="downloads_title">Faylasha La Soo Dejiyay</string>
+    <string name="downloads_empty">Waxba lama soo dejin weli. Soo deji muuqaallo si aad offline ugu daawato.</string>
+    <string name="play_action">Daaro</string>
+    <string name="share_action">La Wadaag</string>
+    <string name="delete_action">Tirtir</string>
+    <string name="player_title">Ciyaaryahanka Muuqaalka</string>
+    <string name="player_speed">Xawaaraha</string>
+    <string name="player_loop">Ku Celi</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Hagaajinta</string>
+    <string name="language_title">Luuqadda / Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_somali">Af-Soomaali</string>
+    <string name="theme_title">Muuqaalka Shaashadda</string>
+    <string name="about_title">Ku Saabsan VidShare Pro</string>
+    <string name="about_desc">Wadaaga faylasha bilaa internetka ah ee xawaaraha sare, soo dejiyaha muuqaallada guud iyo aaladaha farsamada gacanta oo lagu dhisay Kotlin &amp; Jetpack Compose.</string>
+</resources>

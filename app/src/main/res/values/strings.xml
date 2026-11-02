@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">VidShare Pro</string>
+    <string name="app_tagline">Offline File Sharing &amp; Video Downloader</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_downloader">Downloader</string>
+    <string name="tab_share">Share (Xender)</string>
+    <string name="tab_status_saver">Status</string>
+    <string name="tab_tools">Tools</string>
+    <string name="tab_vault">Vault</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Downloader -->
+    <string name="downloader_title">Universal Video Downloader</string>
+    <string name="input_hint">Paste TikTok, Instagram, or video link…</string>
+    <string name="paste_button">Paste</string>
+    <string name="clear_button">Clear</string>
+    <string name="download_button">Download HD Video</string>
+    <string name="download_audio_button">Extract Audio (MP3)</string>
+    <string name="sample_link_prompt">Try test link</string>
+    <string name="paste_from_clipboard">Pasted from clipboard</string>
+    <string name="clipboard_empty">Clipboard is empty or does not contain a valid URL</string>
+    <string name="status_idle">Ready to download</string>
+    <string name="status_extracting">Analyzing video stream…</string>
+    <string name="status_downloading">Downloading video…</string>
+    <string name="status_verifying">Verifying file integrity…</string>
+    <string name="status_success">Download completed successfully!</string>
+    <string name="status_error">Download failed</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Share (Offline P2P Transfer) -->
+    <string name="share_title">Offline High-Speed Transfer</string>
+    <string name="share_subtitle">Transfer files with friends at 40MB/s without internet</string>
+    <string name="btn_send">Send Files</string>
+    <string name="btn_receive">Receive Files</string>
+    <string name="category_videos">Videos</string>
+    <string name="category_audios">Audio</string>
+    <string name="category_photos">Photos</string>
+    <string name="category_apps">Apps (APK)</string>
+    <string name="category_docs">Documents</string>
+    <string name="selected_files_count">%1$d files selected (%2$s)</string>
+    <string name="btn_start_transfer">Send Selected (%1$d)</string>
+    <string name="radar_searching">Scanning for nearby devices…</string>
+    <string name="radar_waiting">Waiting for sender to connect…</string>
+    <string name="connected_peer">Connected to: %1$s</string>
+    <string name="transferring_file">Transferring: %1$s</string>
+    <string name="transfer_speed">%1$.1f MB/s</string>
+    <string name="transfer_complete">Transfer complete!</string>
+    <string name="hotspot_mode">Hotspot Mode</string>
+    <string name="wifi_direct_mode">Wi-Fi Direct</string>
+    <string name="qr_code_desc">Scan QR to connect instantly</string>
+
+    <!-- Status Saver -->
+    <string name="status_saver_title">WhatsApp Status Saver</string>
+    <string name="status_saver_desc">Save photos and videos from WhatsApp before they disappear</string>
+    <string name="status_refresh">Refresh Statuses</string>
+    <string name="status_save_all">Save All</string>
+    <string name="status_saved_to_gallery">Saved to Gallery!</string>
+    <string name="no_statuses_found">No recent statuses found. View some statuses on WhatsApp first.</string>
+
+    <!-- Media Tools Studio -->
+    <string name="tools_title">Media Studio Tools</string>
+    <string name="tool_video_to_mp3">Video to MP3 Converter</string>
+    <string name="tool_video_to_mp3_desc">Extract high-quality MP3 audio and ringtone</string>
+    <string name="tool_video_compressor">Video Compressor</string>
+    <string name="tool_video_compressor_desc">Reduce video file size for easy WhatsApp sharing</string>
+    <string name="tool_video_trimmer">Video Trimmer</string>
+    <string name="tool_video_trimmer_desc">Cut and trim unwanted parts of any video</string>
+    <string name="tool_execute">Process Media</string>
+    <string name="tool_success">Processing completed successfully!</string>
+
+    <!-- Private Vault -->
+    <string name="vault_title">Private Media Vault</string>
+    <string name="vault_desc">Secure personal videos and files with a private PIN</string>
+    <string name="vault_enter_pin">Enter 4-digit PIN</string>
+    <string name="vault_setup_pin">Set up new PIN</string>
+    <string name="vault_unlock">Unlock Vault</string>
+    <string name="vault_lock">Lock Vault</string>
+    <string name="vault_empty">No files in private vault. Tap Add to hide files here.</string>
+    <string name="vault_add_file">Hide Files</string>
+    <string name="vault_pin_incorrect">Incorrect PIN. Please try again.</string>
+
+    <!-- Player & History -->
+    <string name="downloads_title">Downloaded Files</string>
+    <string name="downloads_empty">No downloads yet. Download videos to view them offline.</string>
+    <string name="play_action">Play</string>
+    <string name="share_action">Share</string>
+    <string name="delete_action">Delete</string>
+    <string name="player_title">Media Player</string>
+    <string name="player_speed">Speed</string>
+    <string name="player_loop">Loop</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="language_title">Language / Luuqadda</string>
+    <string name="lang_english">English</string>
+    <string name="lang_somali">Af-Soomaali</string>
+    <string name="theme_title">Theme Mode</string>
+    <string name="about_title">About VidShare Pro</string>
+    <string name="about_desc">High-speed offline file sharing, multi-platform video downloader &amp; media tools built with 100% Kotlin &amp; Jetpack Compose.</string>
+</resources>
